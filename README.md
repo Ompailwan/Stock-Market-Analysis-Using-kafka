@@ -118,17 +118,6 @@ python dashboard.py
 - **Alert Precision**: 92% relevant alerts (low false positives)
 - **Processing Speed**: Real-time indicator calculations in <50ms
 
-## 🎨 Sample Visualizations
-
-### Real-Time Stock Dashboard
-*[Add screenshot of your dashboard showing live price charts, volume indicators, and technical analysis]*
-
-### Kafka Topic Monitoring
-*[Add screenshot of Kafka monitoring showing throughput, partition distribution, and consumer lag]*
-
-### Technical Analysis Charts
-*[Add screenshot showing RSI, MACD, and moving averages calculated in real-time]*
-
 ## 🔧 Configuration
 
 ### Kafka Configuration
@@ -176,14 +165,6 @@ KAFKA_CONFIG = {
 - **Multi-Region Deployment**: Cross-region data replication
 - **Auto-scaling**: Dynamic resource allocation based on market hours
 - **Cache Layer**: Redis integration for frequently accessed data
-
-## 🔮 Future Enhancements
-
-- [ ] **Multi-Asset Support** - Extend to forex, crypto, and commodities
-- [ ] **ML Model Deployment** - Real-time model serving with MLflow
-- [ ] **Advanced Analytics** - Options Greeks and risk metrics calculation
-- [ ] **Mobile App** - React Native app for mobile trading alerts
-- [ ] **Blockchain Integration** - DeFi protocols and on-chain analytics
 
 ## 🐛 Troubleshooting
 
